@@ -19,8 +19,11 @@ this repository is about how to install Ubuntu in VB and to setup ros2 in ubuntu
    how to install Ubuntu in VB
 
 ### steps to download Ubuntu in VB🖥️
+
+
 Step 1: Open VirtualBox and click on the New button.
  
+
 Step 2: Give a name to your Virtual Machine and select the location for it to install.
 
  
@@ -28,6 +31,7 @@ Step 3: Assign RAM size to your Virtual Machine.
  
  
 Step 4: Create a Virtual Hard disk for the machine to store files.
+
 
 Step 5: Select the type of Hard disk. Using VDI type is recommended.
  
@@ -53,7 +57,7 @@ Step 11: Click on the Install Ubuntu option, this might look different for other
 Step 12: Select Keyboard layout, if the defaults are compatible, just click on the continue button and proceed.
  
  
-Step 13: Select installation type. By default, it is set to Normal installation, which is recommended, but it can also be changed to Minimal installation if there is no need for all Ubuntu features.
+Step 13: Select installation type. By default, it is set to Normal installation, which is recommended, but it can also be changed to Minimal installation if there   is no need for all Ubuntu features.
  
  
 Step 14: Click on the Install Now button and carry on with the installation. Do not get worried with the Erase disk option, it will only be effective inside the virtual machine, other system files outside the VirtualBox remain intact.
@@ -76,7 +80,14 @@ Step 19: Once the installation process is over, reboot your Virtual Machine.
  
 Step 20: You’re finished with the installation process. Now you can use Ubuntu along with the Windows.
 
+
+
+
+
 ## Task 1.2: algorthim to download and install Ros2
+
+
+
 
 1-Add the ROS 2 apt repository
 
