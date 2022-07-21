@@ -1,0 +1,64 @@
+Downloading and Installing Ubuntu
+
+Before, we begin with the installation process, we need to download ISO file for Ubuntu. For that, all the versions of Ubuntu are available on the official site ubuntu.com
+Ubuntu-Download-Windows
+ 
+After the downloading is over, you can install Ubuntu on VirtualBox with the help of following instructions:
+
+Step 1: Open VirtualBox and click on the New button.
+ 
+Step 2: Give a name to your Virtual Machine and select the location for it to install.
+
+ 
+Step 3: Assign RAM size to your Virtual Machine.
+ 
+ 
+Step 4: Create a Virtual Hard disk for the machine to store files.
+
+Step 5: Select the type of Hard disk. Using VDI type is recommended.
+ 
+ 
+Step 6: Either of the physical storage type can be selected. Using Dynamically allocated disk is by default recommended.
+ 
+ 
+Step 7: Select disk size and provide the destination folder to install.
+
+ 
+Step 8: After the Disk creation is done, boot the Virtual Machine and begin installing Ubuntu.
+
+ 
+Step 9: If the installation disk is not automatically detected. Browse the file location and select the ISO file for Ubuntu.
+ 
+ 
+Step 10: Proceed with the installation file and wait for further options.
+ 
+ 
+Step 11: Click on the Install Ubuntu option, this might look different for other Ubuntu versions.
+ 
+ 
+Step 12: Select Keyboard layout, if the defaults are compatible, just click on the continue button and proceed.
+ 
+ 
+Step 13: Select installation type. By default, it is set to Normal installation, which is recommended, but it can also be changed to Minimal installation if there is no need for all Ubuntu features.
+ 
+ 
+Step 14: Click on the Install Now button and carry on with the installation. Do not get worried with the Erase disk option, it will only be effective inside the virtual machine, other system files outside the VirtualBox remain intact.
+ 
+ 
+Step 15: Click on the continue button, and proceed with writing changes on the disk.
+ 
+ 
+Step 16: Select your location to set the Time Zone.
+
+ 
+Step 17: Choose a name for your computer and set a password to secure login info.
+
+ 
+Step 18: Wait for the installation process to complete.
+
+ 
+Step 19: Once the installation process is over, reboot your Virtual Machine.
+
+ 
+Step 20: You’re finished with the installation process. Now you can use Ubuntu along with the Windows.
+
